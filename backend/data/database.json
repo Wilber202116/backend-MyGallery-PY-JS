@@ -1,0 +1,143 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "calos",
+      "password": "calve1223"
+    },
+    {
+      "id": 2,
+      "username": "rodigo",
+      "password": "1223"
+    },
+    {
+      "id": 3,
+      "username": "peldimo",
+      "password": "peldimo123"
+    }
+  ],
+  "image": [
+    {
+      "id": 1,
+      "user_id": 2,
+      "filename": "nissan pao.jpg",
+      "comments": [
+        {
+          "user_id": 2,
+          "text": "La primera vez que conduci este tipo de carro me ha encantado muchisimo"
+        },
+        {
+          "user_id": 1,
+          "text": "fsadfsadf"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "filename": "bonsai1.jpg",
+      "comments": [
+        {
+          "user_id": 1,
+          "text": "baby"
+        },
+        {
+          "user_id": 3,
+          "text": "hermoso bonsai"
+        },
+        {
+          "user_id": 1,
+          "text": "buen bonsai"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "filename": "bonsai2.jpg",
+      "comments": []
+    },
+    {
+      "id": 4,
+      "user_id": 3,
+      "filename": "nissan pao trasero.jpg",
+      "comments": [
+        {
+          "user_id": 1,
+          "text": "hermoso carrito"
+        },
+        {
+          "user_id": 1,
+          "text": "comentario"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "user_id": 1,
+      "filename": "pogart.jpg",
+      "comments": []
+    },
+    {
+      "id": 6,
+      "user_id": 3,
+      "filename": "56.jpg",
+      "comments": []
+    },
+    {
+      "id": 7,
+      "user_id": 3,
+      "filename": "HatsuneMiku.jpg",
+      "comments": []
+    },
+    {
+      "id": 8,
+      "user_id": 3,
+      "filename": "Fishing_Stars_by_yuumei_on_DeviantArt.jpg",
+      "comments": [
+        {
+          "user_id": 1,
+          "text": "buen fondo rey"
+        },
+        {
+          "user_id": 1,
+          "text": "gracis bro"
+        },
+        {
+          "user_id": 1,
+          "text": "preuba 2"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "user_id": 3,
+      "filename": "dasd.png",
+      "comments": []
+    },
+    {
+      "id": 10,
+      "user_id": 1,
+      "filename": "Bocchi_the_ciber.jpg",
+      "comments": []
+    },
+    {
+      "id": 11,
+      "user_id": 1,
+      "filename": "oso.jpg",
+      "comments": []
+    },
+    {
+      "id": 12,
+      "user_id": 1,
+      "filename": "71.jpg",
+      "comments": []
+    },
+    {
+      "id": 13,
+      "user_id": 1,
+      "filename": "fHPzy0ln.jpg",
+      "comments": []
+    }
+  ]
+}
